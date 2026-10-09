@@ -1,7 +1,7 @@
 variable "resource_group_name" {
   type        = string
   description = "Nome do Resource Group"
-  default     = "rg-queimadas-dbx-aula5"
+  default     = "rg-queimadas-mysql-cp2"
 }
 
 variable "location" {
